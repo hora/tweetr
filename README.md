@@ -35,5 +35,8 @@ Dependencies:
 - It is running in our Vagrant machine (and therefore...)
 - It is Running with Node 5.10.x or above
 
+## Test
+
+!["screenshot"](https://github.com/hora/tweetr/blob/master/public/images/bird.png)
 
 
